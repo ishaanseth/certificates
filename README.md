@@ -12,7 +12,7 @@ Certificates of my achievements so far.
 * [Sanskrit Month Junior Level.pdf](Sanskrit%20Month%20Junior%20Level.pdf): Certificate for Sanskrit Month Junior Level.
 * [Skill Certificate_CBSE.pdf](Skill%20Certificate_CBSE.pdf): Certificate for Skill Certificate CBSE.
 * [Student Upskilling Launchpad_Certificate of Completion.pdf](Student%20Upskilling%20Launchpad_Certificate%20of%20Completion.pdf): Certificate for Student Upskilling Launchpad Certificate of Completion.
-* [Terre Olympiad.pdf](Terre Olympiad.pdf): Certificate for Terre Olympiad.
+* [Terre Olympiad.pdf](Terre%20Olympiad.pdf): Certificate for Terre Olympiad.
 * [gtse.pdf](gtse.pdf): Certificate for GTSE.
 * [olympiads.pdf](olympiads.pdf): Certificate for Olympiads.
 * [अखिलभारतीया-संस्कृतज्ञान-प्.pdf](अखिलभारतीया-संस्कृतज्ञान-प्.pdf): Certificate for अखिलभारतीया-संस्कृतज्ञान-प्.
