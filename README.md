@@ -6,6 +6,7 @@ Certificates of my achievements so far.
 * [AI_SS.pdf](AI_SS.pdf): Certificate for AI SS.
 * [AlgoUniversity_Graphs.png](AlgoUniversity_Graphs.png): Certificate for AlgoUniversity Graphs.
 * [Campaign Ambassador.png](Campaign%20Ambassador.png): Certificate for Campaign Ambassador.
+* [Classify_Images_With_TF_On_Google_Cloud.pdf](Classify_Images_With_TF_On_Google_Cloud.pdf): Certificate for completing Google Cloud Course.
 * [Convolve.jpg](https://unstop.com/certificate-preview/d5811e95-895e-43a9-9e56-c548f8545be1?utm_campaign=site-emails&utm_medium=d2c-automated&utm_source=wow-look-at-your-certificate-convolve-30-a-pan-iit-aiml-hackathon-open-to-all): Certificate for Convolve.
 * [Deutsche_Bank.pdf](Deutsche_Bank.pdf): Certificate for Second Position in Deutsche Bank Buildathon.
 * [Homibhabha.pdf](Homibhabha.pdf): Certificate for Homibhabha.
