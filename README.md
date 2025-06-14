@@ -10,6 +10,7 @@ Certificates of my achievements so far.
 * [Convolve.jpg](https://unstop.com/certificate-preview/d5811e95-895e-43a9-9e56-c548f8545be1?utm_campaign=site-emails&utm_medium=d2c-automated&utm_source=wow-look-at-your-certificate-convolve-30-a-pan-iit-aiml-hackathon-open-to-all): Certificate for Convolve.
 * [Deutsche_Bank.pdf](Deutsche_Bank.pdf): Certificate for Second Position in Deutsche Bank Buildathon.
 * [Homibhabha.pdf](Homibhabha.pdf): Certificate for Homibhabha.
+* [InterIIT_IGDC.pdf](InterIIT_IGDC.pdf): Certificate for participating in IGDC at Inter IIT Tech Meet 13.0; placed 4th out of 23 IITs.
 * [Mathlab_SS.pdf](Mathlab_SS.pdf): Certificate for Mathlab SS.
 * [Sanskrit Month Junior Level.pdf](Sanskrit%20Month%20Junior%20Level.pdf): Certificate for Sanskrit Month Junior Level.
 * [Skill Certificate_CBSE.pdf](Skill%20Certificate_CBSE.pdf): Certificate for Skill Certificate CBSE.
